@@ -1,0 +1,27 @@
+Introduction
+
+In this project, I developed a deep learning model to classify Arabic Sign Language gestures using images. The primary goal was to enhance communication for the hearing-impaired community by accurately recognizing and interpreting sign language gestures.
+
+Techniques Used
+
+- **Data Preprocessing**: 
+  - Loaded the dataset of Arabic Sign Language gestures. 
+  - Applied preprocessing techniques, including resizing images to a uniform input size of 224x224 pixels and normalizing pixel values to a range of [0, 1].
+  - Encoded labels for classification.
+
+- **Model Architecture**: 
+  - Utilized the MobileNet architecture as the base model for feature extraction. 
+  - Added additional layers, including flattening, dense layers, and dropout layers to enhance model performance and prevent overfitting.
+
+- **Training and Validation**: 
+  - Split the dataset into training, validation, and test sets. 
+  - Trained the model using categorical crossentropy as the loss function and Adam optimizer to minimize loss. 
+  - Implemented early stopping to halt training once the validation loss started to increase, ensuring optimal performance.
+
+- **Evaluation Metrics**: 
+  - Evaluated the model’s performance using accuracy, confusion matrix, and classification reports to gain insights into its effectiveness in recognizing different sign language gestures.
+
+- **Prediction**: 
+  - Created a function to predict the label of new images by loading and preprocessing the input image, passing it through the trained model, and decoding the predicted label.
+
+This project demonstrates the application of deep learning techniques in computer vision to address communication barriers for individuals using Arabic Sign Language.
