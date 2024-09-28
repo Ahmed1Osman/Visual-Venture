@@ -35,16 +35,16 @@ This project focuses on recognizing and interpreting Arabic sign language gestur
 
 ## Technologies Used ⚙️
 In this repository, I leverage a variety of technologies to build and optimize my computer vision projects:
-- **Programming Languages**: Python 🐍, C++
+- **Programming Languages**: Python 🐍
 - **Deep Learning Frameworks**: TensorFlow 🧠, Keras, PyTorch 🔥
 - **Computer Vision Libraries**: OpenCV 🖼️, scikit-image, Dlib
 - **Image Processing**: NumPy 🔢, Pillow
 - **Visualization**: Matplotlib 📊, Seaborn, Plotly
 - **Machine Learning Libraries**: scikit-learn, XGBoost
 - **Data Handling**: Pandas 🐼, h5py
-- **Deployment**: Flask 🚀, Docker
+- **Deployment**: Flask 🚀
 - **Version Control**: Git, GitHub
-- **Development Tools**: Jupyter Notebook, VS Code, PyCharm
+- **Development Tools**: Jupyter Notebook, VS Code, Colab
 - **Other Tools**: LabelImg, Tesseract OCR, MediaPipe
 
 
@@ -53,6 +53,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📧
 For inquiries or collaborations, please reach out to me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [ao9200004](mailto:ao9200004@gmail.com)
+- LinkedIn: [Ahmed Osman](https://www.linkedin.com/in/ahmed-osman-a38805232/)
   
